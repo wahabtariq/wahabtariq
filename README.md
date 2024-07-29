@@ -6,7 +6,7 @@
 
 🌐 [Visit my website](https://wahabtariq.github.io/)
 
-I'm a software engineer with more than 5 years of experience in full stack development, proficient at building user-friendly, scalable web applications with clean, reusable code and robust architecture.
+I'm a software engineer with expertise in full stack development, proficient at building user-friendly, scalable web applications with clean, reusable code and robust architecture.
 
 ## My Expertise:
 
@@ -30,16 +30,6 @@ Chart.js, D3.js, THREE.js, ApexCharts, Globe.gl, KML Files Generation for Google
 
 **Amazon Web Services:**  
 EC2, ECR, CodeCommit, Application Load Balancer, S3 Bucket, Secrets Manager
-
-## My Strengths:
-
-- Exceptional expertise in the intricacies of the REACT technology stack.
-- Strong understanding of HTML, CSS, JavaScript & TypeScript.
-- Efficient in Object Oriented programming languages such as Python.
-- Clean, reusable, and robust scripting.
-- Excellent communication skills.
-- Ability to work as a team.
-- Able to debug, troubleshoot and problem-solve.
 
 <!--
 🔭 I’m currently working on ...
