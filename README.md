@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My name is Abdul Wahab Tariq - I am a full stack developer.
 
 <!--
 **wahabtariq/wahabtariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
