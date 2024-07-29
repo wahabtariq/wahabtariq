@@ -4,6 +4,8 @@
 
 # Hi there 👋, My name is Abdul Wahab Tariq - I am a full stack developer.
 
+🌐 [Visit my website](https://wahabtariq.github.io/)
+
 I'm a software engineer with more than 5 years of experience in full stack development, proficient at building user-friendly, scalable web applications with clean, reusable code and robust architecture.
 
 ## My Expertise:
