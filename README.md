@@ -8,8 +8,6 @@
 
 I'm a software engineer with expertise in full stack development, proficient at building user-friendly, scalable web applications with clean, reusable code and robust architecture.
 
-## My Expertise:
-
 **Frontend:**  
 React, Redux, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, MUI
 
