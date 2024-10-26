@@ -11,7 +11,7 @@ I'm a software engineer with expertise in full stack development, proficient at 
 ## Proficient in:
 
 **Frontend:**  
-React, Redux, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, MUI
+React, Redux, Angular, Nextjs, JavaScript, TypeScript, HTML, CSS, Bootstrap, MUI
 
 **Backend:**  
 Node.js, Parse Server, Supabase, Python Django
